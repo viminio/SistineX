@@ -2,7 +2,7 @@
 Um bot para WhatsApp criado em nodejs
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/62722905?v=4" width="256" height="256"/>
+<img src="https://avatars.githubusercontent.com/u/62722905?v=4" width="512" height="512"/>
 </p>
 <p align="center">
 <a href="#"><img title="SistineX" src="https://img.shields.io/badge/SistineX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
