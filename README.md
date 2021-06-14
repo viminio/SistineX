@@ -1,6 +1,3 @@
-# SistineX
-Um bot para WhatsApp criado em nodejs
-
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/62722905?v=4" width="512" height="512"/>
 </p>
@@ -18,9 +15,9 @@ Um bot para WhatsApp criado em nodejs
 </p>
 <div align="center">
 <details>
- <summary>Quer saber da onde vem minha motivação pra criar bot?</summary>
- 
-**Por hype é claro**
+ <summary>A</summary>
+  
+ B
 
 </details>
 
