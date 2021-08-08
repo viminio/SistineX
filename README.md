@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/62722905?v=4" width="512" height="512"/>
+<img src="https://avatarfiles.alphacoders.com/932/93286.gif" width="512" height="512"/>
 </p>
 <p align="center">
 <a href="#"><img title="SistineX" src="https://img.shields.io/badge/SistineX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -15,18 +15,18 @@
 </p>
 <div align="center">
 <details>
- <summary>A</summary>
-  
- B
+ <summary>Quer saber da onde vem minha motivação pra criar bot?</summary>
+ 
+**Por hype é claro**
 
 </details>
 
 ```txt
-        ______   __   ______   ______  __   __   __   ______     __  __    
-       /\  ___\ /\ \ /\  ___\ /\__  _\/\ \ /\ "-.\ \ /\  ___\   /\_\_\_\   
-       \ \___  \\ \ \\ \___  \\/_/\ \/\ \ \\ \ \-.  \\ \  __\   \/_/\_\/_  
-        \/\_____\\ \_\\/\_____\  \ \_\ \ \_\\ \_\\"\_\\ \_____\   /\_\/\_\ 
-         \/_____/ \/_/ \/_____/   \/_/  \/_/ \/_/ \/_/ \/_____/   \/_/\/_/
+          ______   __   ______   ______  __   __   __   ______     __  __    
+         /\  ___\ /\ \ /\  ___\ /\__  _\/\ \ /\ "-.\ \ /\  ___\   /\_\_\_\   
+         \ \___  \\ \ \\ \___  \\/_/\ \/\ \ \\ \ \-.  \\ \  __\   \/_/\_\/_  
+          \/\_____\\ \_\\/\_____\  \ \_\ \ \_\\ \_\\"\_\\ \_____\   /\_\/\_\ 
+           \/_____/ \/_/ \/_____/   \/_/  \/_/ \/_/ \/_/ \/_____/   \/_/\/_/
 ```
 
                                                                             
@@ -36,11 +36,11 @@
 ## Recursos
 
 
-| ABC |Yes|
+| Figurinhas |Yes|
 | ------------- | ------------- |
-| A |✅|
-| B |✅|
-| C |✅|
+| Criar figurinhas apartir de imagens |.fig|✅|
+| Criar figurinhas apartir de gifs |.fig|✅|
+| Criar imagens apartir de figurinhas |.toimg|✅|
 
 ____
 | ABC |Yes|
