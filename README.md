@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatarfiles.alphacoders.com/932/93286.gif" width="512" height="512"/>
+<img src="https://raw.githubusercontent.com/viminio/SistineX/main/sistinex.gif" width="512" height="512"/>
 </p>
 <p align="center">
 <a href="#"><img title="SistineX" src="https://img.shields.io/badge/SistineX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
